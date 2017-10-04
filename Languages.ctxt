@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Languages
+comment0.text=\r\n\ Name\ of\ Program\:\ Languages\r\n\ Name\:\ Cameron\ Otterson\r\n\ Description\:\ This\ program\ prints\ three\ lines,\r\n\ \ \ \ each\ counting\ to\ five\ in\ English,\ French,\r\n\ \ \ \ then\ Spanish.\r\n\ \r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
